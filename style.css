@@ -1,0 +1,9 @@
+h1{
+    font-family: 'Text Me One', sans-serif;
+    text-transform: uppercase;
+}
+
+li,h5,.btn{
+    font-family: 'Text Me One', sans-serif;
+    list-style: none;
+}
